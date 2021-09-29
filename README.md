@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @chavalitpramotedham
+👋 Hi, I’m @chavalitpramotedham
 
-- 👀 I’m interested in creating innovative solutions to real-life user problems.
+👀 I’m interested in creating innovative solutions to real-life user problems.
 
-- 🌱 I’m currently learning Business and Computer Science @ Nanyang Technological University
+🌱 I’m am currently a Final Year Business and Computer Science @ Nanyang Technological University, on track to graduate with First Class Honours.
 
-- 📫 How to reach me by email, at chavalit@pramotedham.com
+📫 You can reach me by email, at chavalit@pramotedham.com
+
 
 Some of my project highlights include:
 
