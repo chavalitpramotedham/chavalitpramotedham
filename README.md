@@ -16,10 +16,10 @@ Some of my project highlights include:
       - Supports key functionalities like location scouting, session creation, task planning, task tracking and productivity reports.
 
 3. Gamified Learning Application – QuizGuys
-  - Developed an application facilitating community, gamified learning of secondary school topics with analytics-driven learning feedback.
+      - Developed an application facilitating community, gamified learning of secondary school topics with analytics-driven learning feedback.
 
 4. Machine Learning Stock Market Sentiment Predictor
-  -	Leveraged Web-Scraping, Natural Language Processing and Deep Learning (LSTM) to generate trading signals based on real-time sentiment analysis of StockTwits (Financial Forum) activity.
+      - Leveraged Web-Scraping, Natural Language Processing and Deep Learning (LSTM) to generate trading signals based on real-time sentiment analysis of StockTwits (Financial Forum) activity.
 
 
 
