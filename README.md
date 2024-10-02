@@ -4,11 +4,11 @@
 
 💡 My current work philosophy is to "Fall in love with the PROBLEM, not the solution" (P.S. I highly recommend that book by Uri Levine, founder of Waze); In simpler terms:
 
-      [1] Discover and think deeply about problems I truly believe in;
+      1 Discover and think deeply about problems I truly believe in;
       
-      [2] Think from First Principles, challenge my assumptions, to not be afraid/embarrassed to change my approach when new knowledge is made available;
+      2 Think from First Principles, challenge my assumptions, to not be afraid/embarrassed to changemy approach when new knowledge is made available;
       
-      [3] Move with conviction – not necessarily toward the solution I'm currently working on, but toward the broader value I'm trying to realize.
+      3 Move with conviction – not necessarily toward the solution I'm currently working on, but toward the broader value I'm trying to realize.
       
    I can't say I'm quite there yet, but that's my goal.
 
