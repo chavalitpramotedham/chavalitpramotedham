@@ -1,6 +1,6 @@
 👋 Hi, I’m Chavalit Pramotedham.
 
-👀 I’m interested in leveraging new technologies to explore novel solutions for real-life problems.
+👀 I really like building things; Specifically, exploring novel solutions using new tech to address real-life problems.
 
 💡 My current work philosophy is to "Fall in love with the PROBLEM, not the solution" (P.S. I highly recommend that book by Uri Levine, founder of Waze); In simpler terms:
 
