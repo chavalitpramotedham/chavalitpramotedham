@@ -6,7 +6,7 @@
 
       1 Discover and think deeply about problems I truly believe in;
       
-      2 Think from First Principles, challenge my assumptions, to not be afraid/embarrassed to changemy approach when new knowledge is made available;
+      2 Think from First Principles, challenge my assumptions, to not be afraid/embarrassed to change my approach when new knowledge is made available;
       
       3 Move with conviction – not necessarily toward the solution I'm currently working on, but toward the broader value I'm trying to realize.
       
