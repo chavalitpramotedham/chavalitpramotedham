@@ -24,7 +24,7 @@
 
 1. GetUp - Personal Habit Tracker (https://github.com/chavalitpramotedham/GetUp)
       - I built this iOS app for my wife and me as part of our 2025 New Year resolutions to build stronger habits (reading, gym, run, cleaning the house, etc.)
-      - After taking a break from coding since Uni, I mainly took this opportunity to get my hands dirty again with building a pet project (albeit with immense help from ChatGPT), and also experiment with small LLM integrations.
+      - After taking a break from coding since Uni, I mainly took this opportunity to get my hands dirty again with building a pet project (albeit with immense help from ChatGPT), learn iOS development, and also experiment with small LLM integrations.
 
 -- Business and Computer Science @ NTU --
 
