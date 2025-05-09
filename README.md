@@ -12,13 +12,21 @@
       
    I can't say I'm quite there yet, but that's my goal.
 
-👨🏻‍💻 I’m currently a budding Product Manager at TikTok/ByteDance where I'm doing some interesting work with Location Products and Local Services.
+👨🏻‍💻 I’m currently a Product Manager at TikTok/ByteDance where I'm doing some interesting work with GenAI Safety, Local Services and Location products.
 
 📫 You can reach me by email, at chavalit@pramotedham.com
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌱 These are some of the earlier projects I worked on as a Business and Computer Science student @ Nanyang Technological University in Singapore, but I hope to put out more substantive work in the future.
+🌱 These are some of the earlier projects I worked on, but I hope to put out more substantive work in the future.
+
+-- In my free time --
+
+1. GetUp - Personal Habit Tracker (https://github.com/chavalitpramotedham/GetUp)
+      - I built this iOS app for my wife and me as part of our 2025 New Year resolutions to build stronger habits (reading, gym, run, cleaning the house, etc.)
+      - After taking a break from coding since Uni, I mainly took this opportunity to get my hands dirty again with building a pet project (albeit with immense help from ChatGPT), and also experiment with small LLM integrations.
+
+-- Business and Computer Science @ NTU --
 
 1. Motor Imagery Brain Computer Interface (MI-BCI) for Lower Limb Rehabilitation (https://github.com/chavalitpramotedham/LE_BCI_V1)
       - Novel MI-BCI system comprising ML models to decode EEG brain waves, and VR-based therapy app to empower, gamify and accelerate lower limb rehabilitation in post-stroke patients.
